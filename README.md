@@ -85,18 +85,18 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-43-07.png>)
+![Screenshot from 2024-02-27 15-43-07](https://github.com/user-attachments/assets/32e5fe7b-95e0-49c4-a976-0b49db48eba1)
 
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-45-01.png>)
+![Screenshot from 2024-02-27 15-45-01](https://github.com/user-attachments/assets/b55ccd74-7653-4506-a13a-db403eef9bbc)
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-47-12.png>)
+![Screenshot from 2024-02-27 15-47-12](https://github.com/user-attachments/assets/ce744cc8-c294-4109-9583-4e823c1f2e34)
 
 cat < newfile 
 ```
@@ -110,39 +110,39 @@ hello world
  
 grep Hello newfile 
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-52-24.png>)
+![Screenshot from 2024-02-27 15-52-24](https://github.com/user-attachments/assets/955dc066-2e7a-44e6-bb79-38355f47bdfe)
 
 grep hello newfile 
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-52-52.png>)
+![Screenshot from 2024-02-27 15-53-18](https://github.com/user-attachments/assets/461cc19b-008a-4e93-8e8f-6e9c07a3a236)
 
 
 
 grep -v hello newfile 
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-53-18.png>)
+![Screenshot from 2024-02-27 15-53-18](https://github.com/user-attachments/assets/13d0831e-acd2-4ac6-966e-5680a62f582d)
 
 
 cat newfile | grep -i "hello"
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-53-56.png>)
 
+![Screenshot from 2024-02-27 15-53-56](https://github.com/user-attachments/assets/af9a3db6-2441-473f-8e5a-336e2f81e07f)
 
 
 cat newfile | grep -i -c "hello"
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-57-16.png>)
 
+![Screenshot from 2024-02-27 15-57-16](https://github.com/user-attachments/assets/9f47306b-2405-4452-b668-9bc2e7219767)
 
 
 grep -R ubuntu /etc
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-58-41.png>)
-![alt text](<Screenshot from 2024-02-27 15-59-06.png>)
+![Screenshot from 2024-02-27 15-58-41](https://github.com/user-attachments/assets/792ee96d-1287-4e47-b3d5-00ab593a8ba3)
+![Screenshot from 2024-02-27 15-59-06](https://github.com/user-attachments/assets/15020280-0419-4bda-a9d5-764c900e5208)
 
 grep -w -n world newfile   
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-59-06-1.png>)
+![Screenshot from 2024-02-27 15-59-06-1](https://github.com/user-attachments/assets/14f572bc-8dfb-48a6-8962-3da9f8bdb8bd)
 
 cat < newfile 
 ```
