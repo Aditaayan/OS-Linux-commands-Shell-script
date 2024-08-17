@@ -42,23 +42,24 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-36-21.png>)
+![Screenshot from 2024-02-27 15-36-21](https://github.com/user-attachments/assets/a9497c03-fdc6-42f4-8d35-20dae242625a)
+
 
 
 cat < file2
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-37-24.png>)
+![Screenshot from 2024-02-27 15-37-24](https://github.com/user-attachments/assets/7b4cbe6a-8b31-4b84-ab61-ececb5d43254)
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-38-34.png>) 
+![Screenshot from 2024-02-27 15-38-34](https://github.com/user-attachments/assets/f12392d1-8207-4c89-9d62-7e1a997acd7c)
 
 
 comm file1 file2
  ## OUTPUT
-![alt text](<Screenshot from 2024-02-27 15-39-43.png>)
- 
+ ![Screenshot from 2024-02-27 15-39-43](https://github.com/user-attachments/assets/79102e83-97b0-45f2-acdf-ef85141fe479)
+
 diff file1 file2
 ## OUTPUT
 
