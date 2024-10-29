@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting 
-#### Developed By: DHARAN ADITYA
-#### Reg.NO: 212223040035
+#### Developed By: D	ADITAAYAN M
+#### Reg.NO: 212223040006
 # AIM:
 To practice Linux Commands and Shell Scripting
 
