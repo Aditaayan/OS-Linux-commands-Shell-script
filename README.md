@@ -1,9 +1,9 @@
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
+
 # Linux commands-Shell scripting
 Linux commands-Shell scripting 
-#### Developed By: D	ADITAAYAN M
-#### Reg.NO: 212223040006
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
@@ -22,6 +22,11 @@ Execute the following commands
 Testing the commands for the desired output. 
 
 # COMMANDS:
+
+Developed by: ADITAAYAN M
+
+Register number: 212223040006
+
 ### Create the following files file1, file2 as follows:
 cat > file1
 ```
